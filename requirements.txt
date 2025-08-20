@@ -1,0 +1,8 @@
+google-generativeai
+llama-index
+llama-index-llms-gemini
+streamlit
+python-dotenv
+pandas
+ib_insync
+jinja2
